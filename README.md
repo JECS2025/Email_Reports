@@ -1,1 +1,1 @@
-**Assets:** - Screenshots for the reports
+**Assets:** Screenshots for the reports
