@@ -34,7 +34,7 @@
 - Attachment checked in:
     - **VirusTotal Detection Summary**
         - File Type: `.html`
-        - **`5/60** vendors flagged as malicious`
+        - **5/60** `vendors flagged as malicious`
         - SHA-256 hash: `410a8c2275863dfbe362fe76a59533cad2e54874481ec14d90e364850e366599`
         - Detected:
             - `JS/Redirector.PDX` (Google)
