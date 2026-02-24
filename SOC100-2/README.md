@@ -15,15 +15,15 @@
 ### Message & Intent
 
 - `Suspicious language`
-    - `*3 headers trying to create an urgent/high priority message:*`
+    - `3 headers trying to create an urgent/high priority message:`
         1. `*X-Priority: 1 (Highest)*`
         2. `*X-Msmail-Priority: High*`
         3. `*Importance: High*`
-    - `*No text written in the email.*`
+    - `No text written in the email.`
 
 ### Links
 
-`*No links directly seen from the body of the email. However, an html attachment is.*`
+`No links directly seen from the body of the email. However, an html attachment is.`
 
 ### Attachments
 
@@ -57,7 +57,7 @@
         
             
     
-    📎 *Screenshot provides visual validation of threat detections for reference and reporting.*
+     *Screenshot provides visual validation of threat detections for reference and reporting.*
     
 
 ### Embedded Scripts
