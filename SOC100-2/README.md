@@ -1,4 +1,14 @@
 # SOC100-2: Email Analysis 2
+### Raw Email Headers
+
+<details>
+<summary>View Raw Email Screenshot</summary>
+
+![Raw Email Headers](assets/email_header.png)
+
+</details>
+
+
 
 ## 1. Email Body & Payloads
 
